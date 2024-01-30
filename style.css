@@ -286,7 +286,7 @@ img{
 
 .float-left{
     width: 75%;
-    height: 380px;
+    height: 400px;
     background-color: #01304e;
 }
 
@@ -315,7 +315,7 @@ img{
 
 .float-rigth{
     width: 25%;
-    height: 380px;
+    height: 400px;
     background-color: #fec844;
     position: relative;
    
